@@ -5,8 +5,8 @@ Version: 0.1
 """
 
 import random
-from src.guess.GuessingGame import GuessingGame
-from src.guess.Renderer import Renderer
+from guessinggame.guess.GuessingGame import GuessingGame
+from guessinggame.guess.Renderer import Renderer
 from typing import List
 
 

@@ -5,7 +5,7 @@ Version: 0.1
 """
 
 from typing import List
-from src.guess.GuessResult import GuessResult
+from guessinggame.guess.GuessResult import GuessResult
 
 
 class Renderer:

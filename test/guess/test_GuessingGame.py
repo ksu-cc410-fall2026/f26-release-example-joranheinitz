@@ -3,8 +3,8 @@
 Author: Russell Feldhausen russfeld@ksu.edu
 Version: 0.1
 """
-from src.guess.GuessingGame import GuessingGame
-from src.guess.GuessResult import GuessResult
+from guessinggame.guess.GuessingGame import GuessingGame
+from guessinggame.guess.GuessResult import GuessResult
 import pytest
 
 
